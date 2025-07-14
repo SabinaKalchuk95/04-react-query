@@ -1,5 +1,3 @@
-// src/types/movie.ts
-
 export interface Movie {
     id: number;
     poster_path: string;
@@ -8,5 +6,4 @@ export interface Movie {
     overview: string;
     release_date: string;
     vote_average: number;
-  }
-  
+}
